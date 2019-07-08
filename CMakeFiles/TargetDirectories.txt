@@ -1,0 +1,4 @@
+/home/bryce/Documents/PerPer/Graficadora/CMakeFiles/rebuild_cache.dir
+/home/bryce/Documents/PerPer/Graficadora/CMakeFiles/Graficadora.dir
+/home/bryce/Documents/PerPer/Graficadora/CMakeFiles/edit_cache.dir
+/home/bryce/Documents/PerPer/Graficadora/CMakeFiles/Graficadora_autogen.dir
